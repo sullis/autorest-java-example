@@ -11,7 +11,7 @@ dependencies {
     implementation("com.microsoft.rest:client-runtime:1.7.5")
 
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.6.2")
-    testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.6.2")
+    testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.7.0")
 }
 
 java {
