@@ -10,7 +10,7 @@ repositories {
 dependencies {
     implementation("com.microsoft.rest:client-runtime:1.7.14")
 
-    testImplementation("org.junit.jupiter:junit-jupiter-api:5.7.2")
+    testImplementation("org.junit.jupiter:junit-jupiter-api:5.8.1")
     testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.8.1")
 }
 
